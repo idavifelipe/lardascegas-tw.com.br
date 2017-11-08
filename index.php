@@ -202,7 +202,7 @@
           <img src="imagens/banner-02.jpg" alt="Bengala" width="1200" height="700">
         <div class="carousel-caption">
           <h3>Bengala</h3>
-          <p>Bengala &eacute; um acess&oacute;rio para o aux&iacute;lio no caminhar, sendo mais usada por pessoas que t&ecirc;m dificuldades na locomo&ccedil;&atilde;o em raz&atilde;o da idade, ou em raz&atilde;o de doen�a, problemas traumatol&oacute;gicos, como fraturas, ou cegueira.</p>
+          <p>Bengala &eacute; um acess&oacute;rio para o aux&iacute;lio no caminhar, sendo mais usada por pessoas que t&ecirc;m dificuldades na locomo&ccedil;&atilde;o em raz&atilde;o da idade, ou em raz&atilde;o de doen&ccedil;a, problemas traumatol&oacute;gicos, como fraturas, ou cegueira.</p>
         </div>      
       </div>
     
