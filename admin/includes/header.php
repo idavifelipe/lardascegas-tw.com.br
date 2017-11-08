@@ -48,6 +48,8 @@ if(!isset($_SESSION['usuarioldc']) && (!isset($_SESSION['senhaldc']))){
 <link href="css/font-awesome.css" rel="stylesheet">
 <link href="css/style.css" rel="stylesheet">
 <link href="css/pages/dashboard.css" rel="stylesheet">
+
+<link rel="shortcut icon" href="imagens/favicon.ico" />
 <!-- Le HTML5 shim, for IE6-8 support of HTML5 elements -->
 <!--[if lt IE 9]>
       <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
