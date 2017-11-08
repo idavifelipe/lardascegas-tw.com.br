@@ -25,7 +25,7 @@ if(isset($_SESSION['usuarioldc']) && (isset($_SESSION['senhaldc']))){
 <link href="css/style.css" rel="stylesheet" type="text/css">
 <link href="css/pages/signin.css" rel="stylesheet" type="text/css">
 
-<link rel="shortcut icon" href="imagens/favicon.ico" />
+<link rel="shortcut icon" href="../imagens/favicon.ico" />
 
 </head>
 
