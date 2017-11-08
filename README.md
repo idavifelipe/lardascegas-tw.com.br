@@ -11,8 +11,7 @@ Link de acesso: https://lardascegas-tw-com-br.umbler.net/
 
 ## Trabalho Tec-Web
 
-	O trabalho da disciplina na implementação de uma solução web (backend, frontend). A solução
-proposta deve apresentar temas ligados aos seguintes temas:
+	O trabalho da disciplina na implementação de uma solução web (backend, frontend). A solução proposta deve apresentar temas ligados aos seguintes temas:
 
 1. Saúde
 2. Educação
@@ -28,7 +27,7 @@ proposta deve apresentar temas ligados aos seguintes temas:
 * Apresentação: 08/11/2017
 
 ### Desenvolvedor Full Stack
-*Responsável pela implementação do serviço(Avaliação: Implementação e Hospedagem do sistema).
+* Responsável pela implementação do serviço(Avaliação: Implementação e Hospedagem do sistema).
 
 
 
